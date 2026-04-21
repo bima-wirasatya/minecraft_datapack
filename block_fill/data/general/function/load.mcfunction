@@ -1,0 +1,1 @@
+tellraw @a "blocky succses load!"

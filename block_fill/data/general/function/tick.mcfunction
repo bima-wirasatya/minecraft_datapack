@@ -1,0 +1,1 @@
+execute as @a at @s run effect clear @s
